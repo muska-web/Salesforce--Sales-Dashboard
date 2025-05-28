@@ -53,3 +53,7 @@ Navigate to the dashboard folder and open L&T Sales Cockpit Dashboard
 Use filters to sort by date, team, or opportunity stage
 
 Review graphs for contract value and upcoming closings
+
+
+![Graph 1](https://github.com/user-attachments/assets/2e0f2883-5e7a-44f5-96c1-2a3de3a66f9d)
+![graph 2](https://github.com/user-attachments/assets/6831a801-30d9-4315-a816-aeaed1c27935)
